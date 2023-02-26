@@ -15,3 +15,5 @@ print(summ(15, 5))
 print(minus(15, 5))
 print(multi(15, 5))
 print(int(division(15, 5)))
+
+print('12345')
