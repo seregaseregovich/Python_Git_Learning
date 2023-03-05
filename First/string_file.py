@@ -1,2 +1,4 @@
-# Creating new file in github (learning)
-print('qwerty')
+from numbers import *
+
+print(multi(100, 5))
+print(division(100, 5))
